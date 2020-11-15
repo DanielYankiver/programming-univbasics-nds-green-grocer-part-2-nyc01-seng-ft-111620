@@ -29,7 +29,8 @@ end
 def apply_clearance(cart)
   counter = 0
   while counter < counter.length
-  
+  if 
+  end 
   counter += 1 
   end 
 end
